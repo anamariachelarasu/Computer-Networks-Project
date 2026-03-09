@@ -142,5 +142,4 @@ Aplicația parcurge lista de fragmente și trimite câte un mesaj CoAP separat p
 * **RFC 7252** - https://datatracker.ietf.org/doc/html/rfc7252
 * **Documentație Python** - https://docs.python.org/3/
 * **Materiale puse la dispoziție pe platforma educațională**
-#   C o m p u t e r - N e t w o r k s - P r o j e c t  
- 
+#
